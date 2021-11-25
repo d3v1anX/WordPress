@@ -5,7 +5,7 @@
  *
  * @package WordPress
  */
-
+// Das ist ein Test
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
